@@ -1,0 +1,11 @@
+[package]
+name = "sat-solver"
+version = "0.1.0"
+edition = "2021"
+description = "Boolean satisfiability solver with DPLL algorithm, clause learning, and conflict analysis"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/sat-solver"
+keywords = ["sat", "dpll", "satisfiability", "formal-methods", "verification"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
