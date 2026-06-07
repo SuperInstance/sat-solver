@@ -1,5 +1,5 @@
 [package]
-name = "sat-solver"
+name = "sat-dpll"
 version = "0.1.0"
 edition = "2021"
 description = "Boolean satisfiability solver with DPLL algorithm, clause learning, and conflict analysis"

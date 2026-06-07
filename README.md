@@ -15,7 +15,7 @@ A Boolean satisfiability (SAT) solver implementing the DPLL algorithm with claus
 
 ```toml
 [dependencies]
-sat-solver = "0.1.0"
+sat-dpll = "0.1.0"
 ```
 
 ## Usage
